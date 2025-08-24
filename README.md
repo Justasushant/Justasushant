@@ -60,7 +60,7 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Justasushant&show_icons=true&theme=tokyonight&count_private=true" alt="Sushant's GitHub stats" />
 </p>
 
@@ -68,11 +68,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justasushant&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Justasushant&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Justasushant&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
