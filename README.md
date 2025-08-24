@@ -72,9 +72,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Justasushant&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Justasushant&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Justasushant&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
