@@ -3,27 +3,51 @@
   <img src="https://i.postimg.cc/hjszvxtk/PHEONIXBANNEr.png" width="100%" />
 </p>
 
-<h1 align="center" style="color:orange;">🔥 Hi, I'm <span style="color:#FF4500;">SUSHANT</span> 🔥</h1>
-<p align="center"><b>Web Designer • Creative Mind • Anime Fanatic 🌀</b></p>
+<h1 align="center">Hi, I'm Sushant Sharma</h1>
+<p align="center"><b>Frontend Developer • UI/UX Focused • Building Scalable Web Experiences</b></p>
 
 ---
 
-## 🔥 About Me  
+## About Me
 
-- 🎨 Passionate about **Web Designing & Development**  
-- 🤝 Love collaborating on **exciting design & coding projects**  
-- 🌐 Exploring the infinite world of **UI/UX & front-end magic**  
+- Frontend developer focused on building **high-quality, scalable web applications**
+- Experience working on **real client projects and production-level websites**
+- Strong focus on **performance, accessibility, and clean UI/UX**
+- Continuously improving workflows using **modern development and AI tools**
 
 ---
 
-## 🛠️ Tech Stack  
+## Work & Experience
+
+- Worked with **Sarcaster** to design and develop a high-conversion workshop website  
+  🌐 https://sarcaster.in  
+  📺 https://www.youtube.com/@sarcaaster  
+
+- Built multiple **client websites and digital platforms** focused on performance and UI/UX  
+
+- Delivered production-ready solutions for **businesses, creators, and agencies**
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ai,firebase,python,mongodb,replit,github,vscode" />
-</p>  
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,firebase,mongodb,python,github,vscode" />
+</p>
+
+<p align="center">
+  <b>AI Tools:</b> Claude • ChatGPT • GitHub Copilot
+</p>
 
 ---
 
+## What I Build
+
+- Modern **SaaS dashboards and web applications**
+- High-converting **landing pages and marketing websites**
+- Scalable **frontend architectures using React / Next.js**
+
+---
 ## 📊 GitHub Stats  
 
 <p>
@@ -38,29 +62,25 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Justasushant&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
----
-
-## 📫 Contact Me  
-
-- 💬 Discord: `justasushant`  
-- 📷 Instagram: [instagram.com/justasushant](https://instagram.com/justasushant)  
-- 🌐 Website: [sushantsharma.me](https://sushantsharma.me)  
-- 📧 Email: `contact@sushantsharma.me`  
-- 🧠 Let’s collab, brainstorm, and build cool anime-inspired dev stuff!  
-
----
-
-## ⚡ Fun Fact  
-
-> *“I turn pixels into experiences and coffee into code ☕🖥️”*  
-
----
-
 ## 🎉 Extra Cool Stuff  
 
 <p align="center">
   <img src="https://media.tenor.com/9zcShDGs9lQAAAAC/itachi-uchiha.gif" width="300px" />
 </p>  
+
+## Contact
+
+- 🌐 Website: https://www.sushantsharma.me  
+- 📧 Email: sushant@coneiz.com  
+- 📷 Instagram: https://instagram.com/justasushant  
+- 💬 Discord: justasushant  
+
+---
+
+## Focus
+
+- Building **real-world products and client solutions**
+- Improving **development speed with AI-assisted workflows**
+- Continuously shipping and refining **production-level code**
 
 <p align="center">✨ <i>"Even in the code’s silence, creativity speaks."</i> ✨</p>
