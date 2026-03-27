@@ -82,5 +82,3 @@
 - Building **real-world products and client solutions**
 - Improving **development speed with AI-assisted workflows**
 - Continuously shipping and refining **production-level code**
-
-<p align="center">✨ <i>"Even in the code’s silence, creativity speaks."</i> ✨</p>
