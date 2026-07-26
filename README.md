@@ -46,15 +46,10 @@ Delivered production-ready websites and digital platforms for **12+ paid clients
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72C25,100:FFA630&height=90&section=header&text=GitHub%20Stats&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72C25,100:FFA630&height=90&section=header&text=Activity&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%" />
 
 <div align="center">
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Justasushant&show_icons=true&count_private=true&bg_color=0D1117&title_color=FFA630&text_color=ffffff&icon_color=F72C25&border_color=F72C25&border_radius=12" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Justasushant&layout=compact&bg_color=0D1117&title_color=FFA630&text_color=ffffff&border_color=F72C25&border_radius=12" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Justasushant&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Justasushant&bg_color=0D1117&color=FFA630&line=F72C25&point=FF6B35&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
