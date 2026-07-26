@@ -23,10 +23,7 @@ Frontend developer building high-quality, scalable web applications — real cli
 
 ### Work
 
-**Sarcaster** — designed and built a high-conversion workshop website
-[sarcaster.in](https://sarcaster.in) · [YouTube](https://www.youtube.com/@sarcaaster)
-
-Multiple client websites and digital platforms delivered for businesses, creators, and agencies.
+Delivered production-ready websites and digital platforms for **12+ paid clients** — businesses, creators, and agencies — with a focus on performance, conversion, and clean UI/UX.
 
 <br/>
 
