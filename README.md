@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://www.sushant.coneiz.com"><img src="https://img.shields.io/badge/WEBSITE-sushant.coneiz.com-F72C25?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://sushant.coneiz.com"><img src="https://img.shields.io/badge/WEBSITE-sushant.coneiz.com-F72C25?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:sushant@coneiz.com"><img src="https://img.shields.io/badge/EMAIL-sushant@coneiz.com-FF6B35?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://instagram.com/justasushant"><img src="https://img.shields.io/badge/INSTAGRAM-@justasushant-FFA630?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
